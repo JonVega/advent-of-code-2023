@@ -5,7 +5,7 @@ Solutions using C and C++
 # Languages
 
 | Language | Computer Environment | Notes |
-| :-: | :-: |
+| :-: | :-: | :-: |
 | C | Raspberry Pi 3 | Using terminal on a CRT to recreate that 80's programming feel |
 | C++ | macOS and WSL2 |  |
 
